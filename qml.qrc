@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/run.png</file>
+        <file>image/build.png</file>
+        <file>image/build_hov.png</file>
+        <file>image/run_hov.png</file>
+    </qresource>
+</RCC>
